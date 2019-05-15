@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace webApi.Models
+namespace webApi.Domain.Models
 {
     public class Assignment
     {

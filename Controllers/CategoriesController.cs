@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using webApi.Domain.Services;
 
 namespace webApi.Controllers
 {
@@ -10,9 +11,9 @@ namespace webApi.Controllers
     public class TasksController : ControllerBase
     {
 
-        private readonly ICategoryService _categoryService;
+        private readonly IAssignmentService _categoryService;
 
-        public TasksController(ICategoryService categoryService)
+        public TasksController(IAssignmentService categoryService)
         {
             _categoryService = categoryService;
         }

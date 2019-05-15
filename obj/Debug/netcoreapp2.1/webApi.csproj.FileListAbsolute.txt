@@ -1,0 +1,6 @@
+C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.RazorAssemblyInfo.cache
+C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.RazorAssemblyInfo.cs
+C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.AssemblyInfo.cs

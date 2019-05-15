@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace webApi.Models
+namespace webApi.Domain.Models
 {
     public enum EDepartment : byte
     {
