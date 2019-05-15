@@ -2,26 +2,27 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using webApi.Domain.Models;
 using webApi.Domain.Services;
 
 namespace webApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class TasksController : ControllerBase
+    public class AssignmentsController : ControllerBase
     {
 
-        private readonly IAssignmentService _categoryService;
+        private readonly IAssignmentService _assignmentService;
 
-        public TasksController(IAssignmentService categoryService)
+        public AssignmentsController(IAssignmentService assignmentService)
         {
-            _categoryService = categoryService;
+            _assignmentService = assignmentService;
         }
 
         [HttpGet]
-        public async Task<IEnumerable<Category>> GetAllAsync()
+        public async Task<IEnumerable<Assignment>> GetAllAsync()
         {
-            return await _categoryService.ListAsync();
+            return await _assignmentService.ListAsync();
         }
 
        

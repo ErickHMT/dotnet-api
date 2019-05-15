@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Desktop\\api-dotnet\\dotnet-api\\webApi.csproj": {}
+    "C:\\Users\\SQUADRA\\Desktop\\webApi\\webApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Desktop\\api-dotnet\\dotnet-api\\webApi.csproj": {
+    "C:\\Users\\SQUADRA\\Desktop\\webApi\\webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Desktop\\api-dotnet\\dotnet-api\\webApi.csproj",
+        "projectUniqueName": "C:\\Users\\SQUADRA\\Desktop\\webApi\\webApi.csproj",
         "projectName": "webApi",
-        "projectPath": "C:\\Users\\erick\\Desktop\\api-dotnet\\dotnet-api\\webApi.csproj",
-        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Desktop\\api-dotnet\\dotnet-api\\obj\\",
+        "projectPath": "C:\\Users\\SQUADRA\\Desktop\\webApi\\webApi.csproj",
+        "packagesPath": "C:\\Users\\SQUADRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SQUADRA\\Desktop\\webApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SQUADRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

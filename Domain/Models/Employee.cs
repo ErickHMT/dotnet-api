@@ -9,8 +9,8 @@ namespace webApi.Domain.Models
     {
         public int Id { get; set;}
         public string Name { get; set; }
-        public EDepartment UnitOfMeasurement { get; set; }
-        public IList<Task> Tasks { get; set; } = new List<Task>();
+        public EDepartment Department { get; set; }
+        public IList<Assignment> Assignments { get; set; } = new List<Assignment>();
 
     }
 }
