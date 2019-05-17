@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using webApi.Domain.Models;
 
-namespace webApi.Domain.Persistence.Contexts
+namespace webApi.Persistence.Contexts
 {
     public class AppDbContext : DbContext {
 
@@ -33,6 +33,7 @@ namespace webApi.Domain.Persistence.Contexts
             modelBuilder.Entity<Employee>().HasKey(p => p.Id);
             modelBuilder.Entity<Employee>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
             modelBuilder.Entity<Employee>().Property(p => p.Name).IsRequired().HasMaxLength(80);
+            modelBuilder.Entity<Employee>().Property(p => p.Email).IsRequired();
             modelBuilder.Entity<Employee>().Property(p => p.Department).IsRequired();
             modelBuilder.Entity<Employee>().HasMany(p => p.Assignments).WithOne(p => p.Employee).HasForeignKey(p => p.EmployeeId);
 

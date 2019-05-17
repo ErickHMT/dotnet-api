@@ -4,3 +4,17 @@ C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.Razo
 C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.RazorAssemblyInfo.cs
 C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.AssemblyInfoInputs.cache
 C:\Users\erick\Desktop\api-dotnet\dotnet-api\obj\Debug\netcoreapp2.1\webApi.AssemblyInfo.cs
+C:\Users\SQUADRA\Desktop\webApi\bin\Debug\netcoreapp2.1\webApi.deps.json
+C:\Users\SQUADRA\Desktop\webApi\bin\Debug\netcoreapp2.1\webApi.runtimeconfig.json
+C:\Users\SQUADRA\Desktop\webApi\bin\Debug\netcoreapp2.1\webApi.runtimeconfig.dev.json
+C:\Users\SQUADRA\Desktop\webApi\bin\Debug\netcoreapp2.1\webApi.dll
+C:\Users\SQUADRA\Desktop\webApi\bin\Debug\netcoreapp2.1\webApi.pdb
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.csproj.CoreCompileInputs.cache
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.RazorAssemblyInfo.cache
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.RazorAssemblyInfo.cs
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.AssemblyInfoInputs.cache
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.AssemblyInfo.cs
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.RazorTargetAssemblyInfo.cache
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.dll
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.pdb
+C:\Users\SQUADRA\Desktop\webApi\obj\Debug\netcoreapp2.1\webApi.csprojAssemblyReference.cache
